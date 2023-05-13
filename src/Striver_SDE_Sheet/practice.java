@@ -27,6 +27,7 @@ public class practice {
     }
     public static void main(String[] args) {
         int[]  nums = {2,1,4};
+        System.out.println("khizar");
         System.out.println(sumOfPower(nums));
     }
 }
